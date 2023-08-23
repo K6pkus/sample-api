@@ -1,1 +1,149 @@
-{"id":401775,"courseProgresses":[{"slug":"github-copilot-chatgpt-desenvolvimento-ia","finished":false,"name":"GitHub Copilot e ChatGPT: impulsionando seu desenvolvimento com IA","lastAccessTime":1687273497000,"id":3115,"progress":30,"readyToFinish":false},{"slug":"chatgpt-otimizando-qualidade-resultados","finished":false,"name":"ChatGPT: otimizando a qualidade dos resultados","lastAccessTime":1687178202000,"id":3146,"progress":12,"readyToFinish":false},{"slug":"html-css-responsividade-mobile-first","finished":false,"name":"HTML e CSS: responsividade com mobile-first","lastAccessTime":1686855100000,"id":2529,"progress":1,"readyToFinish":false},{"slug":"jetpack-compose-lazy-layout-estados","finished":false,"name":"Jetpack Compose: utilizando Lazy Layout e estados","lastAccessTime":1683829503000,"id":2687,"progress":47,"readyToFinish":false},{"slug":"react-native-armazenamento-imagens-cloud-storage","finished":false,"name":"React Native: armazenando imagens com Cloud Storage","lastAccessTime":1683829498000,"id":2857,"progress":10,"readyToFinish":false}],"guides":[{"id":5753,"code":"arquitetura-android","name":"Melhore a arquitetura de apps em Android","url":"/formacao-arquitetura-android","lastAccessTime":1686077596000,"kind":"DEGREE","totalCourses":5,"finishedCourses":5,"totalSteps":6,"finishedSteps":6,"color":"#f6bc42","author":""},{"id":264250,"code":"mobile-android","name":"A partir do zero: crie apps Android com a linguagem Java","url":"/formacao-mobile-android","lastAccessTime":1686159660000,"kind":"DEGREE","totalCourses":10,"finishedCourses":10,"totalSteps":21,"finishedSteps":15,"color":"#f6bc42","author":""},{"id":439531,"code":"plano-de-estudos-android-jrmartins-1662378279128","name":"Plano de Estudos Android","url":"/plano-de-estudos-android-jrmartins-1662378279128-p439531","lastAccessTime":1662473169000,"kind":"USER_GUIDE","totalCourses":37,"finishedCourses":20,"totalSteps":20,"finishedSteps":12,"color":"#169ec2","author":"Junior Martins"}]}
+{
+  "id": 4242,
+  "courseProgresses": [
+    {
+      "slug": "github-copilot-chatgpt-desenvolvimento-ia",
+      "finished": false,
+      "name": "GitHub Copilot e ChatGPT: impulsionando seu desenvolvimento com IA",
+      "lastAccessTime": 1687273597000,
+      "id": 3115,
+      "progress": 80,
+      "readyToFinish": false
+    },
+    {
+      "slug": "chatgpt-otimizando-qualidade-resultados",
+      "finished": false,
+      "name": "ChatGPT: otimizando a qualidade dos resultados",
+      "lastAccessTime": 1690176000000,
+      "id": 3146,
+      "progress": 82,
+      "readyToFinish": false
+    },
+    {
+      "slug": "html-css-responsividade-mobile-first",
+      "finished": false,
+      "name": "HTML e CSS: responsividade com mobile-first",
+      "lastAccessTime": 1686855100000,
+      "id": 2529,
+      "progress": 50,
+      "readyToFinish": false
+    },
+    {
+      "slug": "jetpack-compose-lazy-layout-estados",
+      "finished": false,
+      "name": "Jetpack Compose: utilizando Lazy Layout e estados",
+      "lastAccessTime": 1683829503000,
+      "id": 2687,
+      "progress": 30,
+      "readyToFinish": false
+    },
+    {
+      "slug": "react-native-armazenamento-imagens-cloud-storage",
+      "finished": false,
+      "name": "React Native: armazenando imagens com Cloud Storage",
+      "lastAccessTime": 1683829498000,
+      "id": 2857,
+      "progress": 95,
+      "readyToFinish": false
+    },
+    {
+      "slug": "github-copilot-chatgpt-desenvolvimento-ia",
+      "finished": false,
+      "name": "GitHub Copilot e ChatGPT: impulsionando seu desenvolvimento com IA",
+      "lastAccessTime": 1687273597000,
+      "id": 3115,
+      "progress": 99,
+      "readyToFinish": false
+    },
+    {
+      "slug": "chatgpt-otimizando-qualidade-resultados",
+      "finished": false,
+      "name": "ChatGPT: otimizando a qualidade dos resultados",
+      "lastAccessTime": 1687178202000,
+      "id": 3146,
+      "progress": 55,
+      "readyToFinish": false
+    },
+    {
+      "slug": "html-css-responsividade-mobile-first",
+      "finished": false,
+      "name": "HTML e CSS: responsividade com mobile-first",
+      "lastAccessTime": 1686855100000,
+      "id": 2529,
+      "progress": 42,
+      "readyToFinish": false
+    },
+    {
+      "slug": "jetpack-compose-lazy-layout-estados",
+      "finished": false,
+      "name": "Jetpack Compose: utilizando Lazy Layout e estados",
+      "lastAccessTime": 1683829503000,
+      "id": 2687,
+      "progress": 85,
+      "readyToFinish": false
+    },
+    {
+      "slug": "react-native-armazenamento-imagens-cloud-storage",
+      "finished": false,
+      "name": "React Native: armazenando imagens com Cloud Storage",
+      "lastAccessTime": 1683829498000,
+      "id": 2857,
+      "progress": 10,
+      "readyToFinish": false
+    },
+    {
+      "slug": "aprofundando-airflow-executores-local-celery",
+      "finished": false,
+      "name": "Aprofundando Airflow: Executores local e Celery",
+      "lastAccessTime": 1678233600000,
+      "id": 3150,
+      "progress": 75,
+      "readyToFinish": false
+    },
+    null
+  ],
+  "guides": [
+    {
+      "id": 5753,
+      "code": "arquitetura-android",
+      "name": "Melhore a arquitetura de apps em Android",
+      "url": "/formacao-arquitetura-android",
+      "lastAccessTime": 1686077596000,
+      "kind": "DEGREE",
+      "totalCourses": 5,
+      "finishedCourses": 5,
+      "totalSteps": 6,
+      "finishedSteps": 6,
+      "color": "#f6bc42",
+      "author": ""
+    },
+    {
+      "id": 304250,
+      "code": "mobile-android",
+      "name": "A partir do zero: crie apps Android com a linguagem Java",
+      "url": "/formacao-mobile-android",
+      "lastAccessTime": 1686159660000,
+      "kind": "DEGREE",
+      "totalCourses": 10,
+      "finishedCourses": 10,
+      "totalSteps": 21,
+      "finishedSteps": 15,
+      "color": "#f6bc42",
+      "author": ""
+    },
+    {
+      "id": 439931,
+      "code": "plano-de-estudos-android-userTeste-4260508845119",
+      "name": "Plano de Estudos Android",
+      "url": "/plano-de-estudos-android-userTeste-4260508845119-p439531",
+      "lastAccessTime": 1662473169000,
+      "kind": "USER_GUIDE",
+      "totalCourses": 37,
+      "finishedCourses": 20,
+      "totalSteps": 20,
+      "finishedSteps": 12,
+      "color": "#169ec2",
+      "author": "Rick Sanches"
+    }
+  ]
+}
