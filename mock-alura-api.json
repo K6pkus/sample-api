@@ -72,6 +72,51 @@
       "id": 3152,
       "progress": 0,
       "readyToFinish": false
+    },
+    {
+      "slug": "jetpack-compose-armazenamento-dados-internos",
+      "finished": false,
+      "name": "Jetpack Compose: Armazenamento de dados internos",
+      "lastAccessTime": 1688352000000, 
+      "id": 3160,
+      "progress": 0,
+      "readyToFinish": false
+    },
+    {
+      "slug": "react-native-gerenciando-estados-globais-redux-toolkit",
+      "finished": false,
+      "name": "React Native: Gerenciando estados globais com Redux Toolkit",
+      "lastAccessTime": 1688448400000,
+      "id": 3161,
+      "progress": 0,
+      "readyToFinish": false
+    },
+    {
+      "slug": "continuous-delivery-machine-learning-pipeline-completo",
+      "finished": false,
+      "name": "Continuous Delivery: Machine Learning - Pipeline Completo",
+      "lastAccessTime": 1688544800000,
+      "id": 3162,
+      "progress": 0,
+      "readyToFinish": false
+    },
+    {
+      "slug": "introducao-word-embedding",
+      "finished": false,
+      "name": "Introdução ao Word Embedding",
+      "lastAccessTime": 1688641200000,
+      "id": 3163,
+      "progress": 0,
+      "readyToFinish": false
+    },
+    {
+      "slug": "react-native-comecando-zero",
+      "finished": false,
+      "name": "React Native: Começando do Zero",
+      "lastAccessTime": 1688737600000,
+      "id": 3164,
+      "progress": 0,
+      "readyToFinish": false
     }
   ],
   "guides": [
