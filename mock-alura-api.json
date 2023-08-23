@@ -47,51 +47,6 @@
       "readyToFinish": false
     },
     {
-      "slug": "github-copilot-chatgpt-desenvolvimento-ia",
-      "finished": false,
-      "name": "GitHub Copilot e ChatGPT: impulsionando seu desenvolvimento com IA",
-      "lastAccessTime": 1687273597000,
-      "id": 3115,
-      "progress": 99,
-      "readyToFinish": false
-    },
-    {
-      "slug": "chatgpt-otimizando-qualidade-resultados",
-      "finished": false,
-      "name": "ChatGPT: otimizando a qualidade dos resultados",
-      "lastAccessTime": 1687178202000,
-      "id": 3146,
-      "progress": 55,
-      "readyToFinish": false
-    },
-    {
-      "slug": "html-css-responsividade-mobile-first",
-      "finished": false,
-      "name": "HTML e CSS: responsividade com mobile-first",
-      "lastAccessTime": 1686855100000,
-      "id": 2529,
-      "progress": 42,
-      "readyToFinish": false
-    },
-    {
-      "slug": "jetpack-compose-lazy-layout-estados",
-      "finished": false,
-      "name": "Jetpack Compose: utilizando Lazy Layout e estados",
-      "lastAccessTime": 1683829503000,
-      "id": 2687,
-      "progress": 85,
-      "readyToFinish": false
-    },
-    {
-      "slug": "react-native-armazenamento-imagens-cloud-storage",
-      "finished": false,
-      "name": "React Native: armazenando imagens com Cloud Storage",
-      "lastAccessTime": 1683829498000,
-      "id": 2857,
-      "progress": 10,
-      "readyToFinish": false
-    },
-    {
       "slug": "aprofundando-airflow-executores-local-celery",
       "finished": false,
       "name": "Aprofundando Airflow: Executores local e Celery",
@@ -101,32 +56,23 @@
       "readyToFinish": false
     },
     {
-            "slug": "aprofundando-airflow-executores-local-celery",
-            "finished": false,
-            "name": "Aprofundando Airflow: Executores local e Celery",
-            "lastAccessTime": 1678041600000, 
-            "id": 3150,
-            "progress": 0,
-            "readyToFinish": false
-        },
-        {
-            "slug": "android-archtecture-components",
-            "finished": false,
-            "name": "Android Archtecture Components",
-            "lastAccessTime": 1679932800000, 
-            "id": 3151,
-            "progress": 0,
-            "readyToFinish": false
-        },
-        {
-            "slug": "ios-construindo-primeiro-aplicativo",
-            "finished": false,
-            "name": "iOS Construindo Primeiro Aplicativo",
-            "lastAccessTime": 1682275200000, 
-            "id": 3152,
-            "progress": 0,
-            "readyToFinish": false
-        }
+      "slug": "android-archtecture-components",
+      "finished": false,
+      "name": "Android Archtecture Components",
+      "lastAccessTime": 1679932800000,
+      "id": 3151,
+      "progress": 0,
+      "readyToFinish": false
+    },
+    {
+      "slug": "ios-construindo-primeiro-aplicativo",
+      "finished": false,
+      "name": "iOS Construindo Primeiro Aplicativo",
+      "lastAccessTime": 1682275200000,
+      "id": 3152,
+      "progress": 0,
+      "readyToFinish": false
+    }
   ],
   "guides": [
     {
