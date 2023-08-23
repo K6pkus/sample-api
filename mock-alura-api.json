@@ -5,7 +5,7 @@
       "slug": "github-copilot-chatgpt-desenvolvimento-ia",
       "finished": false,
       "name": "GitHub Copilot e ChatGPT: impulsionando seu desenvolvimento com IA",
-      "lastAccessTime": 1687273597000,
+      "lastAccessTime": 1690176000000,
       "id": 3115,
       "progress": 80,
       "readyToFinish": false
@@ -99,7 +99,34 @@
       "id": 3150,
       "progress": 75,
       "readyToFinish": false
-    }
+    },
+    {
+            "slug": "aprofundando-airflow-executores-local-celery",
+            "finished": false,
+            "name": "Aprofundando Airflow: Executores local e Celery",
+            "lastAccessTime": 1678041600000, 
+            "id": 3150,
+            "progress": 0,
+            "readyToFinish": false
+        },
+        {
+            "slug": "android-archtecture-components",
+            "finished": false,
+            "name": "Android Archtecture Components",
+            "lastAccessTime": 1679932800000, 
+            "id": 3151,
+            "progress": 0,
+            "readyToFinish": false
+        },
+        {
+            "slug": "ios-construindo-primeiro-aplicativo",
+            "finished": false,
+            "name": "iOS Construindo Primeiro Aplicativo",
+            "lastAccessTime": 1682275200000, 
+            "id": 3152,
+            "progress": 0,
+            "readyToFinish": false
+        }
   ],
   "guides": [
     {
