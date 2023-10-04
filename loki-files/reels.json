@@ -1,0 +1,65 @@
+[
+  {
+    "video": "https://github.com/K6pkus/sample-api/raw/main/loki-files/reels/reels_2.mp4",
+    "thumbnail": "",
+    "basePost": {
+      "description": "Esse meu irmão não toma jeito mesmo",
+      "likes": 420,
+      "comments": 12,
+      "time": "",
+      "user": {
+        "name": "Thor",
+        "avatar": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/profile-pics/thor.png",
+        "followers": 0,
+        "following": 0,
+        "posts": 0,
+        "description": "",
+        "website": "",
+        "isFollowing": false,
+        "isMe": false
+      }
+    }
+  },
+  {
+    "video": "https://github.com/K6pkus/sample-api/raw/main/loki-files/reels/reels_3.mp4",
+    "thumbnail": "",
+    "basePost": {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget aliquam ultricies, nunc nisl aliquet nunc, quis aliquam nisl nunc eu nisl.",
+      "likes": 500,
+      "comments": 10,
+      "time": "",
+      "user": {
+        "name": "Hela",
+        "avatar": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/profile-pics/hela.png",
+        "followers": 0,
+        "following": 0,
+        "posts": 0,
+        "description": "",
+        "website": "",
+        "isFollowing": false,
+        "isMe": false
+      }
+    }
+  },
+  {
+    "video": "https://user-images.githubusercontent.com/35709152/264781421-a07ec349-38c9-43bb-991b-e0f0d8263eea.mp4",
+    "thumbnail": "",
+    "basePost": {
+      "description": "Esse projeto do Hifood ficou o fino!",
+      "likes": 1111,
+      "comments": 777,
+      "time": "",
+      "user": {
+        "name": "Mobius",
+        "avatar": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/profile-pics/mobius.png",
+        "followers": 0,
+        "following": 0,
+        "posts": 0,
+        "description": "",
+        "website": "",
+        "isFollowing": false,
+        "isMe": false
+      }
+    }
+  }
+]

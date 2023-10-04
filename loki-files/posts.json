@@ -1,0 +1,163 @@
+[
+  {
+    "basePost": {
+      "description": "Plural Strings em ação",
+      "likes": 1,
+      "comments": 10,
+      "time": "1h",
+      "user": {
+        "name": "Thor",
+        "avatar": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/profile-pics/thor.png",
+        "followers": 1000,
+        "following": 100,
+        "posts": 50,
+        "description": "Descrição 1",
+        "website": "https://www.example.com/user1",
+        "isFollowing": false,
+        "isMe": false
+      }
+    },
+    "medias": [
+      {
+        "url": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/image%20(8).jpg",
+        "description": "Media 1"
+      }
+    ]
+  },
+  {
+    "basePost": {
+      "description": "O personagem Loki foi introduzido no Universo Cinematográfico Marvel (MCU) no filme Thor (2011), e Hiddleston foi escalado para o papel depois que o diretor Kenneth Branagh ficou impressionado com sua audição. Hiddleston voltou a interpretar Loki em Thor: The Dark World (2013), Thor: Ragnarok (2017), Avengers: Infinity War (2018) e Avengers: Endgame (2019). Em setembro de 2018, a Marvel Studios estava desenvolvendo uma série limitada centrada em Loki e estrelada por Hiddleston. Waldron foi contratado em fevereiro de 2019, e Herron foi contratada no mês seguinte. A fotografia principal começou em janeiro de 2020, mas foi interrompida em março devido à pandemia COVID-19. A produção foi retomada em setembro e foi concluída em dezembro.",
+      "likes": 5500,
+      "comments": 100,
+      "time": "1h",
+      "user": {
+        "name": "Mobius",
+        "avatar": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/profile-pics/mobius.png",
+        "followers": 2000,
+        "following": 200,
+        "posts": 75,
+        "description": "Descrição 2",
+        "website": "https://www.example.com/user2",
+        "isFollowing": false,
+        "isMe": false
+      }
+    },
+    "medias": [
+      {
+        "url": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/image%20(4).jpeg",
+        "description": "Media 1"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/image%20(9).jpg",
+        "description": "Media 2"
+      }
+    ]
+  },
+  {
+    "basePost": {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, quis aliquam nisl",
+      "likes": 100,
+      "comments": 10,
+      "time": "1h",
+      "user": {
+        "name": "Odin",
+        "avatar": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/profile-pics/odin.png",
+        "followers": 3000,
+        "following": 300,
+        "posts": 60,
+        "description": "Descrição 3",
+        "website": "https://www.example.com/user3",
+        "isFollowing": false,
+        "isMe": false
+      }
+    },
+    "medias": [
+      {
+        "url": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/image%20(4).jpg",
+        "description": "Media 1"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/image%20(2).jpg",
+        "description": "Media 2"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/image%20(4).jpeg",
+        "description": "Media 3"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/image%20(1).jpeg",
+        "description": "Media 4"
+      }
+    ]
+  },
+  {
+    "basePost": {
+      "description": "tik tak tik tak",
+      "likes": 414,
+      "comments": 59,
+      "time": "1h",
+      "user": {
+        "name": "Hela",
+        "avatar": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/profile-pics/hela.png",
+        "followers": 5464,
+        "following": 874,
+        "posts": 63,
+        "description": "Descrição 1",
+        "website": "https://www.example.com/user4",
+        "isFollowing": false,
+        "isMe": false
+      }
+    },
+    "medias": [
+      {
+        "url": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/image%20(9).jpg",
+        "description": "Media 6"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/image%20(6).jpg",
+        "description": "Media 5"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/image%20(1).jpeg",
+        "description": "Media 1"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/image%20(2).jpg",
+        "description": "Media 2"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/image%20(3).jpg",
+        "description": "Media 3"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/image%20(5).jpeg",
+        "description": "Media 4"
+      }
+    ]
+  },
+  {
+    "basePost": {
+      "description": "O tempo está acabando para o Deus da Trapaça. ⌛\n Assista ao novo trailer de #Loki, uma série Original da Marvel Studios.",
+      "likes": 5464,
+      "comments": 87,
+      "time": "1h",
+      "user": {
+        "name": "Lady Sif",
+        "avatar": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/profile-pics/lady-sif.png",
+        "followers": 0,
+        "following": 0,
+        "posts": 0,
+        "description": "Descrição 0",
+        "website": "https://www.example.com/user0",
+        "isFollowing": false,
+        "isMe": false
+      }
+    },
+    "medias": [
+      {
+        "url": "https://raw.githubusercontent.com/K6pkus/sample-api/main/loki-files/images/image%20(10).jpg",
+        "description": "Media 1"
+      }
+    ]
+  }
+]
